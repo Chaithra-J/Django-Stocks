@@ -1,3 +1,5 @@
+#Copyrights (c) 2021-2022 Chaithra-J All Rights Reserved 
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from django.contrib import messages
